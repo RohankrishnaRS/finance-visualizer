@@ -1,0 +1,1 @@
+// MongoDB Budget schema
